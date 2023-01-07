@@ -1,10 +1,4 @@
 ### Hi there 👋
-<div id="header" align="center">
-  <img src="pizza.gif" width="350"/>
-</div>
-<h1 align="center">
-  Hi 👋 
-</h1>
 
 # 🧑 About me :
 
