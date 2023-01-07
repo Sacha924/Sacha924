@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="codeur.gif" width="350"/>
+</div>
+
+
 # 🧑 About me :
 
 - 💻 I’m a student learning Fintech at ESILV Engineering School
