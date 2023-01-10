@@ -9,9 +9,9 @@
 
 - 💻 I’m a student learning Fintech at ESILV Engineering School
 
-- 🔍 I enjoy learning new things about computer science everyday
+- 🔍 I enjoy learning new things about computer science and blokchain everyday
 
-- ✉️ How to reach me: sacha.simon@edu.devinci.fr
+- ✉️ How to reach me: sacha.simon@edu.devinci.fr, or on likedin ➡️ https://www.linkedin.com/in/sacha-simon-86aa521b9/
 
    <br>
 ---
@@ -40,7 +40,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/>   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55" height="55"/>
 
 </div>
 
