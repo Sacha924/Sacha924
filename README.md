@@ -55,4 +55,4 @@
 ---
    <br>
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sacha924&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&exclude_repo=GuessTheFlag&title_color=e59e00)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sacha924&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&exclude_repo=Web-Development-Project&title_color=e59e00" />
