@@ -55,4 +55,4 @@
 ---
    <br>
    
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sacha924&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&exclude_repo=Web-Development-Project&title_color=e59e00" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sacha924&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&exclude_repo=Web-Development-Project&langs_count=6&title_color=e59e00" />
