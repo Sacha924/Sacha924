@@ -6,11 +6,11 @@
 
 # 🧑 About me :
 
-- 💻 I’m a student learning Fintech at ESILV Engineering School
+- 💻 I’m a software engineer at Datadog
 
-- 🔍 I enjoy learning new things about computer science and blokchain everyday
+- 🔍 I enjoy learning new things about computer science, finance and blokchain everyday
 
-- ✉️ How to reach me: sacha.simon@edu.devinci.fr, or on likedin ➡️ https://www.linkedin.com/in/sacha-simon-86aa521b9/
+- ✉️ How to reach me: sacha.simon.pro@gmail.com, or on likedin ➡️ https://www.linkedin.com/in/sacha-simon-86aa521b9/
 
    <br>
 ---
